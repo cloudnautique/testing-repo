@@ -9,6 +9,7 @@ echo "Hello... sleeping for a while"
 sleep 600
 
 echo "waking up from a 10 min nap"
+echo $(ls)
 
 
 echo "Im out of here..."
