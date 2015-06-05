@@ -1,0 +1,15 @@
+#!/bin/bash
+
+set -e 
+set -x 
+
+
+echo "Hello... sleeping for a while"
+
+sleep 600
+
+echo "waking up from a 10 min nap"
+
+
+echo "Im out of here..."
+exit 0
